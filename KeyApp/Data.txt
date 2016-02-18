@@ -1,0 +1,9 @@
+<Device>
+	<Name>\\?\HID#VID_040B&PID_2000&MI_00#8&2a2cd323&0&0000#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
+	<AltName>Keyboard1
+	<Node>
+		<Key>70
+		<ActionId>50
+		<Action>
+	</Node>
+</Device>
